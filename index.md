@@ -11,8 +11,7 @@ My Favorite things about CS 193:
 #Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-<img src="https://i.imgflip.com/4l0jtj.jpg"/>
-
+![gg](https://i.imgflip.com/4l0jtj.jpg)
 
 _For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)._
 
